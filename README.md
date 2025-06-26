@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi, I'm Suaib Saifi — a passionate Full Stack Web Developer currently pursuing my B.Tech in Data Science. I love building clean, functional, and responsive web applications that solve real problems. From designing sleek user interfaces to managing robust backends, I enjoy working across the full development stack.
+Hi, I'm Suaib Saifi — a passionate Front End Web Developer currently pursuing my B.Tech in Data Science. I love building clean, functional, and responsive web applications that solve real problems. From designing sleek user interfaces to managing robust backends, I enjoy working across the development stack.
 
-I mainly work with technologies like HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB. I’m also exploring modern tools like Next.js, Tailwind CSS, and RESTful APIs to stay up-to-date with industry trends.
+I mainly work with technologies like HTML, CSS, JavaScript, React, Node.js and MongoDB. I’m also exploring modern tools like Tailwind CSS, and RESTful APIs to stay up-to-date with industry trends.
 
 Let’s build something great together!
 
